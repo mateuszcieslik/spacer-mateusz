@@ -1,34 +1,14 @@
-# spacer-mateusz
+# Spacer app
 
-## Project setup
-```
-npm install
-```
+This app uses NASA API to fetch images and display them after passing search query.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Hello Roman - youtube vue course
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* youtube link: x
 
-### Run your unit tests
-```
-npm run test:unit
-```
+### How to start?
 
-### Run your end-to-end tests
 ```
-npm run test:e2e
+node
+node run serve
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
