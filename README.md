@@ -10,5 +10,5 @@ This app uses NASA API to fetch images and display them after passing search que
 
 ```
 node
-node run serve
+node run servee
 ```
